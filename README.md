@@ -52,7 +52,12 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
     data = s.recv(1024)
 print(f"Received {data!r}")
 ## RESULT:
-blob:https://web.whatsapp.com/01d41e9f-9509-47cf-afe1-dc0f30ca34b4
+Server Output:
+![Screenshot 2024-03-05 212505](https://github.com/manikandan26052004/Ethicka-Hacking-Techniques---19CS417-/assets/121999845/d328014a-00fb-4a80-8b45-890f6c26c9ec)
 
-blob:https://web.whatsapp.com/0470a2dc-4897-4cf4-a9d7-cc2030806b52
+Client output:
+
+![hat1](https://github.com/manikandan26052004/Ethicka-Hacking-Techniques---19CS417-/assets/121999845/70849014-6563-4cb0-8a67-b47df3c71ebd)
+
+
 The program is executed successfully
